@@ -1,0 +1,3 @@
+package.json merge=ours
+clipboard_data.json merge=ours
+# This file is used to define merge strategies for specific files in the repository.
